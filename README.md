@@ -23,8 +23,6 @@
 
 我关注分布式系统、网络仿真和 AI 基础设施，喜欢把研究问题落成真正可运行、可复现、可优化的工程系统。
 
-相比花哨的堆砌，我更重视三件事：性能、结构、可靠性。无论是系统模拟、后端工具链还是数据处理流程，我都希望它们在真实负载下依然清晰、稳定、可维护。
-
 ### 技术方向
 
 - 分布式系统与系统性能优化
@@ -42,7 +40,9 @@
 
 - 面向真实场景的高性能系统设计
 - AI 与基础设施的结合方式
-- 研发效率、可复现流程与工程质量
+- LLM for 启发式算法
+- Agent 系统与智能体工作流
+- Vibe Coding 与新型开发范式
 
 ---
 
@@ -51,8 +51,6 @@
 ### About Me
 
 I work on distributed systems, network simulation, and AI infrastructure, with a strong preference for turning research ideas into practical, reproducible engineering systems.
-
-I care most about three things: performance, structure, and reliability. Whether the work is a simulator, backend toolchain, or data pipeline, I want it to stay clean, stable, and maintainable under real workloads.
 
 ### Focus Areas
 
@@ -71,7 +69,9 @@ I care most about three things: performance, structure, and reliability. Whether
 
 - Designing high-performance systems for real workloads
 - Integrating AI capabilities with robust infrastructure
-- Improving developer productivity and reproducible workflows
+- LLMs for heuristic algorithms
+- Agent systems and autonomous workflows
+- Vibe coding and emerging development paradigms
 
 ---
 
