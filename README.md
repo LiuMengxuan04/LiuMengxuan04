@@ -75,6 +75,18 @@ I care most about three things: performance, structure, and reliability. Whether
 
 ---
 
+## Contribution Activity
+
+<div align="center">
+
+<a href="https://github.com/LiuMengxuan04">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LiuMengxuan04&bg_color=ffffff&color=0f172a&line=0891b2&point=14b8a6&area=true&area_color=ccfbf1&hide_border=true&custom_title=GitHub%20Contribution%20Activity" alt="GitHub contribution activity graph" />
+</a>
+
+</div>
+
+---
+
 ## GitHub Stats
 
 <div align="center">
