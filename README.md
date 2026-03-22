@@ -79,8 +79,12 @@ I care most about three things: performance, structure, and reliability. Whether
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=LiuMengxuan04&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiuMengxuan04&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<a href="https://github.com/LiuMengxuan04">
+  <img height="168" src="https://github-readme-stats.vercel.app/api?username=LiuMengxuan04&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&rank_icon=github&hide=issues&title_color=0891b2&icon_color=0891b2&text_color=64748b" alt="GitHub stats" />
+</a>
+<a href="https://github.com/LiuMengxuan04?tab=repositories">
+  <img height="168" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiuMengxuan04&layout=compact&hide_border=true&theme=transparent&langs_count=6&card_width=320&size_weight=0.5&count_weight=0.5&title_color=0891b2&text_color=64748b" alt="Top languages" />
+</a>
 
 </div>
 
