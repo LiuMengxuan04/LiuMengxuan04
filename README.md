@@ -44,6 +44,10 @@
 - Agent 系统与智能体工作流
 - Vibe Coding 与新型开发范式
 
+### 开源项目
+
+- 近期主要投入在 [PerfectMD](https://github.com/ssbsunshengbo/perfectmd)，一个结合 Typora 简洁体验与 Word 富文本能力的现代 Markdown 编辑器
+
 ---
 
 ## English
@@ -72,6 +76,10 @@ I work on distributed systems, network simulation, and AI infrastructure, with a
 - LLMs for heuristic algorithms
 - Agent systems and autonomous workflows
 - Vibe coding and emerging development paradigms
+
+### Open Source
+
+- Recently contributing most of my open source time to [PerfectMD](https://github.com/ssbsunshengbo/perfectmd), a modern Markdown editor that combines Typora-like simplicity with rich formatting capabilities
 
 ---
 
