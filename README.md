@@ -1,88 +1,98 @@
 <div align="center">
 
-# Liu Mengxuan | 刘孟玄
+# Liu Mengxuan
 
-`Code · Systems · AI · Engineering`
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=00D9FF&center=true&vCenter=true&width=920&lines=Build+for+Scale+%7C+面向规模构建;Think+in+Systems+%7C+系统化思考;Ship+with+Quality+%7C+高质量交付" alt="Typing SVG" />
+### Systems | AI Infra | Engineering
 
 <p>
   <a href="https://github.com/LiuMengxuan04">
-    <img src="https://img.shields.io/github/followers/LiuMengxuan04?label=Followers&style=for-the-badge&color=0ea5e9" />
+    <img src="https://img.shields.io/github/followers/LiuMengxuan04?label=Followers&style=for-the-badge&color=0891b2" alt="GitHub followers" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=LiuMengxuan04&style=for-the-badge&color=06b6d4" />
+  <img src="https://komarev.com/ghpvc/?username=LiuMengxuan04&style=for-the-badge&color=0f766e" alt="Profile views" />
 </p>
+
+`C++` `Python` `Distributed Systems` `Network Simulation` `AI Infrastructure`
 
 </div>
 
 ---
 
-## About Me | 关于我
+## 中文
 
-```text
-EN: Focus on Distributed Systems / Network Simulation / AI Infrastructure.
-ZH: 聚焦分布式系统、网络仿真与 AI 基础设施。
+### 关于我
 
-EN: I value pragmatic engineering, performance optimization, and clean architecture.
-ZH: 重视务实工程、性能优化与清晰架构。
+我关注分布式系统、网络仿真和 AI 基础设施，喜欢把研究问题落成真正可运行、可复现、可优化的工程系统。
 
-EN: Building reliable, scalable systems and tools that can survive real workloads.
-ZH: 致力于构建能承载真实负载的可靠、可扩展系统与工具。
-```
+相比花哨的堆砌，我更重视三件事：性能、结构、可靠性。无论是系统模拟、后端工具链还是数据处理流程，我都希望它们在真实负载下依然清晰、稳定、可维护。
 
-## Tech Stack | 技术栈
+### 技术方向
+
+- 分布式系统与系统性能优化
+- 网络仿真与高性能计算
+- AI Infra 与工程化工具链
+- 自动化脚本、后端服务与数据处理
+
+### 技术栈
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,ts,go,linux,bash,git,docker,flask,nodejs,react,mysql,postgres&perline=8" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,ts,go,linux,bash,git,docker,flask,nodejs,react,mysql,postgres&perline=8" alt="Tech stack" />
 </p>
 
-## Engineering Highlights | 工程特点
+### 当前关注
 
-- EN: Architecting and optimizing simulation/system pipelines.
-- ZH: 设计并优化仿真与系统级流水线。
+- 面向真实场景的高性能系统设计
+- AI 与基础设施的结合方式
+- 研发效率、可复现流程与工程质量
 
-- EN: Converting research ideas into reproducible engineering workflows.
-- ZH: 将研究思路转化为可复现的工程工作流。
+---
 
-- EN: Building end-to-end tools across data, backend, and automation.
-- ZH: 构建覆盖数据处理、后端服务与自动化的端到端工具链。
+## English
 
-- EN: Keeping codebases maintainable with measurable performance goals.
-- ZH: 以可量化性能目标维持代码库的可维护性。
+### About Me
 
-## GitHub Analytics | 数据看板
+I work on distributed systems, network simulation, and AI infrastructure, with a strong preference for turning research ideas into practical, reproducible engineering systems.
+
+I care most about three things: performance, structure, and reliability. Whether the work is a simulator, backend toolchain, or data pipeline, I want it to stay clean, stable, and maintainable under real workloads.
+
+### Focus Areas
+
+- Distributed systems and performance optimization
+- Network simulation and high-performance computing
+- AI infrastructure and engineering workflows
+- Automation, backend services, and data processing
+
+### Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,ts,go,linux,bash,git,docker,flask,nodejs,react,mysql,postgres&perline=8" alt="Tech stack" />
+</p>
+
+### Current Focus
+
+- Designing high-performance systems for real workloads
+- Integrating AI capabilities with robust infrastructure
+- Improving developer productivity and reproducible workflows
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=LiuMengxuan04&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiuMengxuan04&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img height="170" src="https://streak-stats.demolab.com?user=LiuMengxuan04&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=LiuMengxuan04&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiuMengxuan04&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
 </div>
 
-## Current Focus | 近期关注
+---
 
-- EN: High-performance computing and system-level optimization.
-- ZH: 高性能计算与系统级优化。
-
-- EN: AI + infrastructure integration.
-- ZH: AI 与基础设施的深度结合。
-
-- EN: Production-grade tooling and developer productivity.
-- ZH: 面向生产的工具链与研发效率提升。
-
-## Contact | 联系方式
+## Contact
 
 - GitHub: [@LiuMengxuan04](https://github.com/LiuMengxuan04)
 - Email: `liumengxuan829@gmail.com`
 
----
-
 <div align="center">
 
-> "Stay curious. Build deeply. Iterate relentlessly."
->
-> "保持好奇，深度构建，持续迭代。"
+> Stay curious. Build deeply. Iterate relentlessly.
 
 </div>
