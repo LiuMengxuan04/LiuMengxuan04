@@ -11,7 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=LiuMengxuan04&style=for-the-badge&color=0f766e" alt="Profile views" />
 </p>
 
-`C++` `Python` `Distributed Systems` `Network Simulation` `AI Infrastructure`
+`Python` `C++` `Hive` `Distributed Systems` `Network Simulation` `AI Infrastructure`
 
 </div>
 
@@ -35,7 +35,8 @@
 ### 技术栈
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,ts,go,linux,bash,git,docker,flask,nodejs,react,mysql,postgres&perline=8" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,linux,bash,git,docker,flask,nodejs,react,mysql&perline=7" alt="Tech stack" />
+  <img src="https://img.shields.io/badge/Hive-111827?style=for-the-badge&logo=apache&logoColor=FACC15" alt="Hive" />
 </p>
 
 ### 当前关注
@@ -64,7 +65,8 @@ I care most about three things: performance, structure, and reliability. Whether
 ### Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,ts,go,linux,bash,git,docker,flask,nodejs,react,mysql,postgres&perline=8" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,linux,bash,git,docker,flask,nodejs,react,mysql&perline=7" alt="Tech stack" />
+  <img src="https://img.shields.io/badge/Hive-111827?style=for-the-badge&logo=apache&logoColor=FACC15" alt="Hive" />
 </p>
 
 ### Current Focus
