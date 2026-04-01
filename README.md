@@ -97,13 +97,15 @@ I work on distributed systems, network simulation, and AI infrastructure, with a
 
 ## GitHub Stats
 
+公共的 `github-readme-stats.vercel.app` 实例常被限流或超时，GitHub 代理图片时也会失败。此处改为由 [Actions 工作流](.github/workflows/update-readme-cards.yml) 每天生成静态 SVG 并提交到本仓库，主页即可稳定显示。**首次推送后**请到仓库 **Actions → Update README cards → Run workflow** 手动运行一次以生成 `profile/*.svg`。
+
 <div align="center">
 
 <a href="https://github.com/LiuMengxuan04">
-  <img height="168" src="https://github-readme-stats.vercel.app/api?username=LiuMengxuan04&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&rank_icon=github&hide=issues&title_color=0891b2&icon_color=0891b2&text_color=64748b" alt="GitHub stats" />
+  <img height="168" src="./profile/stats.svg" alt="GitHub stats" />
 </a>
 <a href="https://github.com/LiuMengxuan04?tab=repositories">
-  <img height="168" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiuMengxuan04&layout=compact&hide_border=true&theme=transparent&langs_count=6&card_width=320&size_weight=0.5&count_weight=0.5&title_color=0891b2&text_color=64748b" alt="Top languages" />
+  <img height="168" src="./profile/top-langs.svg" alt="Top languages" />
 </a>
 
 </div>
