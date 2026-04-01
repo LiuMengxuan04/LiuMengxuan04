@@ -2,7 +2,8 @@ name: Update README cards
 
 on:
   schedule:
-    - cron: "0 3 * * *"
+    # 每小时整点运行（UTC）；若需改为每 12 小时可用: 0 */12 * * *
+    - cron: "0 * * * *"
   workflow_dispatch:
 
 jobs:

@@ -97,10 +97,6 @@ I work on distributed systems, network simulation, and AI infrastructure, with a
 
 ## GitHub Stats
 
-公共的 `github-readme-stats.vercel.app` 实例常被限流或超时。统计图由 [Actions 工作流](.github/workflows/update-readme-cards.yml) 生成并提交到 `profile/*.svg`。
-
-**个人主页**渲染 README 时，`./profile/...` 相对路径的基准不是仓库根目录，图片会错链或一直用旧缓存；因此下面必须使用 **raw 绝对 URL**（分支名与默认分支一致，当前为 `main`）。
-
 <div align="center">
 
 <a href="https://github.com/LiuMengxuan04">
