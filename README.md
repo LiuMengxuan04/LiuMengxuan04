@@ -46,7 +46,8 @@
 
 ### 开源项目
 
-- 近期主要投入在 [PerfectMD](https://github.com/ssbsunshengbo/perfectmd)，一个结合 Typora 简洁体验与 Word 富文本能力的现代 Markdown 编辑器
+- 最新项目：[MiniCode](https://github.com/LiuMengxuan04/MiniCode)，一个轻量级终端编程助手，采用类似 Claude Code 的工作流、工具循环与 TUI 架构，面向学习与实验
+- 也有参与 [PerfectMD](https://github.com/ssbsunshengbo/perfectmd) 的贡献，这是一个结合 Typora 简洁体验与 Word 富文本能力的现代 Markdown 编辑器
 
 ---
 
@@ -79,7 +80,8 @@ I work on distributed systems, network simulation, and AI infrastructure, with a
 
 ### Open Source
 
-- Recently contributing most of my open source time to [PerfectMD](https://github.com/ssbsunshengbo/perfectmd), a modern Markdown editor that combines Typora-like simplicity with rich formatting capabilities
+- Latest project: [MiniCode](https://github.com/LiuMengxuan04/MiniCode), a lightweight terminal coding assistant with Claude Code-like workflow, tool loop, and TUI architecture, built for learning and experimentation
+- Also contributing to [PerfectMD](https://github.com/ssbsunshengbo/perfectmd), a modern Markdown editor that combines Typora-like simplicity with rich formatting capabilities
 
 ---
 
