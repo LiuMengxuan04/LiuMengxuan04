@@ -23,6 +23,21 @@
 
 我关注分布式系统、网络仿真和 AI 基础设施，喜欢把研究问题落成真正可运行、可复现、可优化的工程系统。
 
+### 实习经历
+
+<p align="left">
+  <img align="left" width="40" src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.84.0/icons/bilibili-color.svg" alt="Bilibili" style="margin-right:12px;margin-bottom:6px;" />
+  <strong>哔哩哔哩</strong> — 机器学习平台开发工程师<br/>
+  支撑核心推荐系统业务。
+</p>
+<br clear="all" />
+<p align="left">
+  <img align="left" width="40" src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.84.0/icons/huawei-color.svg" alt="Huawei" style="margin-right:12px;margin-bottom:6px;" />
+  <strong>华为技术有限公司</strong> — 应用软件开发工程师<br/>
+  首届「<strong>东南大学-华为 ICT 菁英班</strong>」成员。
+</p>
+<br clear="all" />
+
 ### 技术方向
 
 - 分布式系统与系统性能优化
@@ -56,6 +71,21 @@
 ### About Me
 
 I work on distributed systems, network simulation, and AI infrastructure, with a strong preference for turning research ideas into practical, reproducible engineering systems.
+
+### Internship Experience
+
+<p align="left">
+  <img align="left" width="40" src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.84.0/icons/bilibili-color.svg" alt="Bilibili" style="margin-right:12px;margin-bottom:6px;" />
+  <strong>Bilibili Inc.</strong> — Machine Learning Platform Engineer<br/>
+  Supporting the company’s core recommendation system through large-scale distributed task scheduling and platform optimization.
+</p>
+<br clear="all" />
+<p align="left">
+  <img align="left" width="40" src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.84.0/icons/huawei-color.svg" alt="Huawei" style="margin-right:12px;margin-bottom:6px;" />
+  <strong>Huawei Technologies Co., Ltd.</strong> — Application Software Development Engineer<br/>
+  Selected member of the first <strong>SEU–Huawei ICT Elite Program</strong>, participated in production practice and enterprise-level software projects.
+</p>
+<br clear="all" />
 
 ### Focus Areas
 
