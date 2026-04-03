@@ -34,7 +34,7 @@
 <p align="left">
   <img align="left" width="40" src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.84.0/icons/huawei-color.svg" alt="Huawei" style="margin-right:12px;margin-bottom:6px;" />
   <strong>华为技术有限公司</strong> — 应用软件开发工程师<br/>
-  首届「<strong>东南大学-华为 ICT 菁英班</strong>」成员。
+  首届「<strong>东南大学-华为ICT菁英班</strong>」成员。
 </p>
 <br clear="all" />
 
