@@ -2,7 +2,7 @@
 
 # Liu Mengxuan
 
-### Systems | AI Infra | Engineering
+### Systems | AI Infra | AI Agent | Engineering
 
 <p>
   <a href="https://github.com/LiuMengxuan04">
