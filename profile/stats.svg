@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Ceylan's GitHub Stats, Rank: B</title>
-        <desc id="descId">Total Stars Earned: 1813, Total Commits  : 507, Total PRs: 7, Contributed to (last year): 5</desc>
+        <desc id="descId">Total Stars Earned: 1814, Total Commits  : 507, Total PRs: 7, Contributed to (last year): 5</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 131.87057402498843;
+        stroke-dashoffset: 131.8693677957638;
       }
     }
   
