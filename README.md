@@ -11,7 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=LiuMengxuan04&style=for-the-badge&color=0f766e" alt="Profile views" />
 </p>
 
-`Python` `C++` `Kubernetes` `Distributed Systems` `Network Simulation` `AI Infrastructure`
+`Python` `C++` `Kubernetes` `AI System` `LLM Serving` `AI Infrastructure`
 
 </div>
 
@@ -21,7 +21,7 @@
 
 ### 关于我
 
-我关注分布式系统、网络仿真和 AI 基础设施，喜欢把研究问题落成真正可运行、可复现、可优化的工程系统。
+我关注AI System（Infra）和 AI Agent，尽管还没有什么很厉害的项目，但是我想会有的——也许吧（笑）。
 
 ### 实习经历
 
@@ -41,7 +41,6 @@
 ### 技术方向
 
 - 分布式系统与系统性能优化
-- 网络仿真与高性能计算
 - AI Infra 与工程化工具链
 - 自动化脚本、后端服务与数据处理
 
@@ -75,7 +74,7 @@
 
 ### About Me
 
-I work on distributed systems, network simulation, and AI infrastructure, with a strong preference for turning research ideas into practical, reproducible engineering systems.
+I focus on AI System (Infra) and AI Agent. Although I don’t have any impressive projects yet, I think there will be — maybe 😄.
 
 ### Internship Experience
 
@@ -95,7 +94,6 @@ I work on distributed systems, network simulation, and AI infrastructure, with a
 ### Focus Areas
 
 - Distributed systems and performance optimization
-- Network simulation and high-performance computing
 - AI infrastructure and engineering workflows
 - Automation, backend services, and data processing
 
