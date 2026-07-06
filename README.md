@@ -61,10 +61,10 @@
 
 ### 开源项目
 
-- 最新项目：[MiniCode](https://github.com/LiuMengxuan04/MiniCode)，一个轻量级终端编程助手，采用类似 Claude Code 的工作流、工具循环与 TUI 架构，面向学习与实验
-- 也有参与 [PerfectMD](https://github.com/ssbsunshengbo/perfectmd) 的贡献，这是一个结合 Typora 简洁体验与 Word 富文本能力的现代 Markdown 编辑器
+- 最新项目：[MiniCode](https://github.com/LiuMengxuan04/MiniCode)，一个轻量级终端编程助手，采用类似 Claude Code 的工作流、工具循环与 TUI 架构，面向学习与实验。
+- 一个我很喜欢的项目：[vibe-resume](https://github.com/LiuMengxuan04/vibe-resume) ，它可以让你像 vibe coding 一样编辑你的简历。
 
-### Skills / 实用工具
+### 开源 Skills / 实用工具
 
 - [translate-paper-pdf-to-md](https://github.com/LiuMengxuan04/translate-paper-pdf-to-md)：把英文论文 PDF 翻译成高质量 Markdown，尽量保留论文结构、图片、表格、公式、引用和参考文献，适合读论文和二次编辑。
 - [SIT — shushu internship tool](https://github.com/LiuMengxuan04/shushu-internship-tool)：从岗位 JD 到项目选题、代码摸底、复现/改造、简历 STAR 和面试 Q&A 的实习项目准备工具。
@@ -115,8 +115,8 @@ I work on distributed systems, network simulation, and AI infrastructure, with a
 
 ### Open Source
 
-- Latest project: [MiniCode](https://github.com/LiuMengxuan04/MiniCode), a lightweight terminal coding assistant with Claude Code-like workflow, tool loop, and TUI architecture, built for learning and experimentation
-- Also contributing to [PerfectMD](https://github.com/ssbsunshengbo/perfectmd), a modern Markdown editor that combines Typora-like simplicity with rich formatting capabilities
+- Latest project: [MiniCode](https://github.com/LiuMengxuan04/MiniCode), a lightweight terminal coding assistant with Claude Code-like workflow, tool loop, and TUI architecture, built for learning and experimentation.
+- - A project I really like: [vibe-resume](https://github.com/LiuMengxuan04/vibe-resume) — it lets you edit your resume just like vibe coding.
 
 ### Skills & Utility Tools
 
