@@ -38,6 +38,11 @@
 </p>
 <br clear="all" />
 
+### 教育经历
+
+* 🎓 **东南大学** 软件工程 本科（大四在读）
+* 🎓 **东南大学** 计算机科学与技术 准硕士（师从[李传佑副教授](https://cs.seu.edu.cn/cyli/main.htm)）
+
 ### 技术方向
 
 - 分布式系统与系统性能优化
@@ -90,6 +95,12 @@ I focus on AI System (Infra) and AI Agent. Although I don’t have any impressiv
   Selected member of the first <strong>SEU–Huawei ICT Elite Program</strong>, participated in production practice and enterprise-level software projects.
 </p>
 <br clear="all" />
+
+### Education
+
+* 🎓 **Southeast University** — Bachelor of Software Engineering (Senior Year)
+* 🎓 **Southeast University** — Prospective M.S. in Computer Science and Technology (Supervised by [Assoc. Prof. Chuanyou Li](https://cs.seu.edu.cn/cyli/main.htm))
+
 
 ### Focus Areas
 
