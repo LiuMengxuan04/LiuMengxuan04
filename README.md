@@ -59,7 +59,6 @@
 
 - 面向真实场景的高性能系统设计
 - AI 与基础设施的结合方式
-- LLM for 启发式算法
 - Agent 系统与智能体工作流
 - Vibe Coding 与新型开发范式
 
@@ -118,7 +117,6 @@ I focus on AI System (Infra) and AI Agent. Although I don’t have any impressiv
 
 - Designing high-performance systems for real workloads
 - Integrating AI capabilities with robust infrastructure
-- LLMs for heuristic algorithms
 - Agent systems and autonomous workflows
 - Vibe coding and emerging development paradigms
 
