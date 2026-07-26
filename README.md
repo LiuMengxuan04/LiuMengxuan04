@@ -23,7 +23,7 @@
 
 <br/><br/>
 
-[中文](#中文) · [English](#english)
+<a href="#中文">中文</a> · <a href="#english" lang="en" translate="no">English</a>
 
 </div>
 
