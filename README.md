@@ -35,28 +35,13 @@
 
 > **敏捷开发宣言：** 个体和互动高于流程和工具；可工作的软件高于详尽的文档；客户合作高于合同谈判；响应变化高于遵循计划。
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧠 我在思考</h3>
-      <ul>
-        <li>分布式系统与性能优化</li>
-        <li>LLM Serving 与 AI Infra</li>
-        <li>Agent 工具循环与工作流</li>
-        <li>面向开发者的工程体验</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🚧 我在构建</h3>
-      <ul>
-        <li>轻量级终端编程助手</li>
-        <li>论文翻译与知识处理工具</li>
-        <li>从 JD 到面试的项目准备工具</li>
-        <li>更有趣的 Vibe Coding 实验</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+### 🧠 我在思考
+
+`分布式系统与性能优化` · `LLM Serving 与 AI Infra` · `Agent 工具循环与工作流` · `面向开发者的工程体验`
+
+### 🚧 我在构建
+
+`轻量级终端编程助手` · `论文翻译与知识处理工具` · `从 JD 到面试的项目准备工具` · `更有趣的 Vibe Coding 实验`
 
 ## ✦ 精选项目 · Selected Builds
 
@@ -135,28 +120,13 @@ I'm **Liu Mengxuan (Ceylan)**, a systems-minded engineer exploring AI infrastruc
 
 > **Manifesto for Agile Software Development:** Individuals and interactions over processes and tools; working software over comprehensive documentation; customer collaboration over contract negotiation; responding to change over following a plan.
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧠 What I Think About</h3>
-      <ul>
-        <li>Distributed systems and performance</li>
-        <li>LLM serving and AI infrastructure</li>
-        <li>Agent tool loops and workflows</li>
-        <li>Engineering experience for developers</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🚧 What I Build</h3>
-      <ul>
-        <li>Lightweight terminal coding assistants</li>
-        <li>Paper translation and knowledge tools</li>
-        <li>Project preparation from JD to interview</li>
-        <li>Playful vibe-coding experiments</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+### 🧠 What I Think About
+
+`Distributed systems and performance` · `LLM serving and AI infrastructure` · `Agent tool loops and workflows` · `Engineering experience for developers`
+
+### 🚧 What I Build
+
+`Lightweight terminal coding assistants` · `Paper translation and knowledge tools` · `Project preparation from JD to interview` · `Playful vibe-coding experiments`
 
 ### Selected Open Source
 
