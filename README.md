@@ -21,15 +21,21 @@
 <code>AI Infrastructure</code>
 <code>Agent Systems</code>
 
+<br/><br/>
+
+[中文](#中文) · [English](#english)
+
 </div>
 
-## 🛰️ Hello, World
+<a id="中文"></a>
 
-我是刘梦轩，也可以叫我 **Ceylan**。我喜欢从系统的第一性原理出发，把模糊的问题拆成能运行、能测量、能继续演进的工程。
+## 🛰️ 你好，世界 · Hello, World
 
-> 我关注的不只是「让 AI 工作」，而是如何让它在真实系统里跑得更快、更稳，也更像一个可靠的协作者。
+我是**刘孟玄**，也可以叫我 **Ceylan**。我喜欢从系统的第一性原理出发，把模糊的问题拆成能运行、能测量、能继续演进的工程。
 
-<table>
+> **敏捷开发宣言：** 个体和互动高于流程和工具；可工作的软件高于详尽的文档；客户合作高于合同谈判；响应变化高于遵循计划。
+
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3>🧠 我在思考</h3>
@@ -52,9 +58,9 @@
   </tr>
 </table>
 
-## ✦ Selected Builds
+## ✦ 精选项目 · Selected Builds
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/LiuMengxuan04/MiniCode">⌁ MiniCode</a></h3>
@@ -98,14 +104,87 @@
   </tr>
 </table>
 
-## 🧭 Field Notes
+## 💼 实习经历
 
-| 信号 | 位置 | 我做的事 |
-|:---:|---|---|
-| `WORK` | **哔哩哔哩 · 机器学习平台开发工程师** | 支撑核心推荐系统业务，接触真实规模下的平台与调度问题 |
-| `WORK` | **华为技术有限公司 · 应用软件开发工程师** | 首届「东南大学－华为 ICT 菁英班」成员 |
-| `EDU` | **东南大学 · 软件工程本科** | 在系统、工程与 AI 的交叉地带持续探索 |
-| `NEXT` | **东南大学 · 计算机科学与技术硕士** | 师从[李传佑副教授](https://cs.seu.edu.cn/cyli/main.htm) |
+<p align="left">
+  <img align="left" width="42" src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.84.0/icons/bilibili-color.svg" alt="Bilibili" />
+  <strong>哔哩哔哩</strong> — 机器学习平台开发工程师<br/>
+  支撑核心推荐系统业务，接触真实规模下的平台与调度问题。
+</p>
+<br clear="all" />
+
+<p align="left">
+  <img align="left" width="42" src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.84.0/icons/huawei-color.svg" alt="Huawei" />
+  <strong>华为技术有限公司</strong> — 应用软件开发工程师<br/>
+  首届「<strong>东南大学－华为 ICT 菁英班</strong>」成员。
+</p>
+<br clear="all" />
+
+## 🎓 教育经历
+
+- **东南大学** — 软件工程本科（大四在读）
+- **东南大学** — 计算机科学与技术准硕士（师从[李传佑副教授](https://cs.seu.edu.cn/cyli/main.htm)）
+
+<a id="english"></a>
+
+## 🌍 English
+
+### About Me
+
+I'm **Liu Mengxuan (Ceylan)**, a systems-minded engineer exploring AI infrastructure, LLM serving, and agent workflows. I enjoy turning fuzzy ideas into software that can be run, measured, and continuously improved.
+
+> **Manifesto for Agile Software Development:** Individuals and interactions over processes and tools; working software over comprehensive documentation; customer collaboration over contract negotiation; responding to change over following a plan.
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 What I Think About</h3>
+      <ul>
+        <li>Distributed systems and performance</li>
+        <li>LLM serving and AI infrastructure</li>
+        <li>Agent tool loops and workflows</li>
+        <li>Engineering experience for developers</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚧 What I Build</h3>
+      <ul>
+        <li>Lightweight terminal coding assistants</li>
+        <li>Paper translation and knowledge tools</li>
+        <li>Project preparation from JD to interview</li>
+        <li>Playful vibe-coding experiments</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+### Selected Open Source
+
+- [**MiniCode**](https://github.com/LiuMengxuan04/MiniCode) — a lightweight terminal coding assistant that explores tool loops, TUI architecture, and multi-language implementations.
+- [**SIT**](https://github.com/LiuMengxuan04/shushu-internship-tool) — turns a target job description into project selection, code reconnaissance, STAR bullets, and interview Q&A.
+- [**vibe-resume**](https://github.com/LiuMengxuan04/vibe-resume) — edit and iterate on a résumé with a vibe-coding workflow.
+- [**Paper → Markdown**](https://github.com/LiuMengxuan04/translate-paper-pdf-to-md) — translates academic PDFs while preserving structure, figures, tables, equations, and citations.
+
+### Internship Experience
+
+<p align="left">
+  <img align="left" width="42" src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.84.0/icons/bilibili-color.svg" alt="Bilibili" />
+  <strong>Bilibili Inc.</strong> — Machine Learning Platform Engineer<br/>
+  Supporting core recommendation workloads and working with platform and scheduling problems at production scale.
+</p>
+<br clear="all" />
+
+<p align="left">
+  <img align="left" width="42" src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.84.0/icons/huawei-color.svg" alt="Huawei" />
+  <strong>Huawei Technologies Co., Ltd.</strong> — Application Software Engineer<br/>
+  Member of the first <strong>SEU–Huawei ICT Elite Program</strong>.
+</p>
+<br clear="all" />
+
+### Education
+
+- **Southeast University** — B.E. in Software Engineering (Senior Year)
+- **Southeast University** — Prospective M.S. in Computer Science and Technology, supervised by [Assoc. Prof. Chuanyou Li](https://cs.seu.edu.cn/cyli/main.htm)
 
 ## 🧰 Toolbox
 
@@ -137,21 +216,6 @@
 </a>
 
 </div>
-
-<details>
-  <summary><strong>🌍 English snapshot</strong></summary>
-  <br/>
-  <p>
-    I'm Liu Mengxuan (Ceylan), a systems-minded engineer exploring AI infrastructure,
-    LLM serving, and agent workflows. I enjoy turning fuzzy ideas into software that
-    can be run, measured, and improved.
-  </p>
-  <ul>
-    <li><strong>Bilibili</strong> — Machine Learning Platform Engineer, supporting core recommendation workloads.</li>
-    <li><strong>Huawei</strong> — Application Software Engineer and a member of the first SEU–Huawei ICT Elite Program.</li>
-    <li><strong>Southeast University</strong> — B.E. in Software Engineering; prospective M.S. in Computer Science.</li>
-  </ul>
-</details>
 
 ---
 
