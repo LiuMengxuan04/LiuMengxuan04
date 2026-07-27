@@ -179,10 +179,10 @@ I'm **Liu Mengxuan (Ceylan)**, a systems-minded engineer exploring AI infrastruc
 <br/>
 
 <a href="https://github.com/LiuMengxuan04">
-  <img height="168" src="https://raw.githubusercontent.com/LiuMengxuan04/LiuMengxuan04/main/profile/stats.svg?v=2" alt="GitHub stats" />
+  <img height="168" src="https://raw.githubusercontent.com/LiuMengxuan04/LiuMengxuan04/main/profile/stats.svg?v=3" alt="GitHub stats" />
 </a>
 <a href="https://github.com/LiuMengxuan04?tab=repositories">
-  <img height="168" src="https://raw.githubusercontent.com/LiuMengxuan04/LiuMengxuan04/main/profile/top-langs.svg?v=2" alt="Top languages" />
+  <img height="168" src="https://raw.githubusercontent.com/LiuMengxuan04/LiuMengxuan04/main/profile/top-langs.svg?v=3" alt="Top languages" />
 </a>
 
 </div>

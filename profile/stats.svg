@@ -1,84 +1,41 @@
-<svg
-  width="467"
-  height="170"
-  viewBox="0 0 467 170"
-  fill="none"
-  xmlns="http://www.w3.org/2000/svg"
-  role="img"
-  aria-labelledby="titleId descId"
->
-  <title id="titleId">Ceylan's GitHub Stats, Rank: B</title>
-  <desc id="descId">Total Stars Earned: 3029, Total Commits: 596, Total PRs: 7, Contributed to last year: 6</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="467" height="170" viewBox="0 0 467 170" role="img" aria-labelledby="title desc">
+  <title id="title">Ceylan's GitHub Stats</title>
+  <desc id="desc">Total stars: 3069; public repositories: 14; followers: 89; following: 7</desc>
   <style>
-    .header {
-      font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
-      fill: #0891b2;
-    }
-    .label, .value {
-      font: 600 14px 'Segoe UI', Ubuntu, Sans-Serif;
-      fill: #64748b;
-    }
-    .value {
-      font-weight: 700;
-    }
-    .icon {
-      fill: #0891b2;
-      font: 700 16px 'Segoe UI Symbol', 'Segoe UI', sans-serif;
-    }
-    .rank {
-      fill: none;
-      stroke: #0891b2;
-      stroke-width: 6;
-      stroke-linecap: round;
-    }
-    .rank-bg {
-      opacity: 0.2;
-    }
-    .rank-text {
-      font: 800 24px 'Segoe UI', Ubuntu, Sans-Serif;
-      fill: #64748b;
-      text-anchor: middle;
+    .header { font: 700 18px Inter, "Segoe UI", sans-serif; fill: #0891b2; }
+    .label { font: 500 12px Inter, "Segoe UI", sans-serif; fill: #64748b; }
+    .value { font: 700 17px Inter, "Segoe UI", sans-serif; fill: #0f172a; }
+    .updated { font: 400 10px Inter, "Segoe UI", sans-serif; fill: #94a3b8; }
+    .dot { fill: #14b8a6; }
+    .border { fill: #ffffff00; stroke: #e2e8f0; }
+    @media (prefers-color-scheme: dark) {
+      .value { fill: #e2e8f0; }
+      .label { fill: #94a3b8; }
+      .border { stroke: #334155; }
     }
   </style>
-
-  <rect
-    x="0.5"
-    y="0.5"
-    width="466"
-    height="169"
-    rx="4.5"
-    fill="#ffffff00"
-    stroke="#e4e2e2"
-    stroke-opacity="0"
-  />
-
-  <text x="25" y="35" class="header">Ceylan's GitHub Stats</text>
-
-  <text x="25" y="72" class="icon">★</text>
-  <text x="50" y="72" class="label">Total Stars Earned:</text>
-  <text x="244" y="72" class="value">3k</text>
-
-  <text x="25" y="97" class="icon">↻</text>
-  <text x="50" y="97" class="label">Total Commits:</text>
-  <text x="244" y="97" class="value">596</text>
-
-  <text x="25" y="122" class="icon">⑂</text>
-  <text x="50" y="122" class="label">Total PRs:</text>
-  <text x="244" y="122" class="value">7</text>
-
-  <text x="25" y="147" class="icon">▣</text>
-  <text x="50" y="147" class="label">Contributed to (last year):</text>
-  <text x="244" y="147" class="value">6</text>
-
-  <circle cx="380" cy="98" r="40" class="rank rank-bg" />
-  <circle
-    cx="380"
-    cy="98"
-    r="40"
-    class="rank"
-    stroke-dasharray="251.33"
-    stroke-dashoffset="128"
-    transform="rotate(-90 380 98)"
-  />
-  <text x="380" y="106" class="rank-text">B</text>
+  <rect x=".5" y=".5" width="466" height="169" rx="10" class="border"/>
+  <text x="25" y="34" class="header">Ceylan's GitHub Stats</text>
+  <text x="442" y="33" text-anchor="end" class="updated">2026-07-27 10:11 UTC</text>
+  <path d="M25 49H442" stroke="#e2e8f0"/>
+    <g transform="translate(25 80)">
+      <circle cx="7" cy="-5" r="5" class="dot"/>
+      <text x="22" y="0" class="label">Total Stars</text>
+      <text x="22" y="22" class="value">3,069</text>
+    </g>
+    <g transform="translate(245 80)">
+      <circle cx="7" cy="-5" r="5" class="dot"/>
+      <text x="22" y="0" class="label">Public Repos</text>
+      <text x="22" y="22" class="value">14</text>
+    </g>
+    <g transform="translate(25 128)">
+      <circle cx="7" cy="-5" r="5" class="dot"/>
+      <text x="22" y="0" class="label">Followers</text>
+      <text x="22" y="22" class="value">89</text>
+    </g>
+    <g transform="translate(245 128)">
+      <circle cx="7" cy="-5" r="5" class="dot"/>
+      <text x="22" y="0" class="label">Following</text>
+      <text x="22" y="22" class="value">7</text>
+    </g>
 </svg>
