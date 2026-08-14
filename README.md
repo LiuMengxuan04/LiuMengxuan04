@@ -33,7 +33,7 @@
 
 我是**刘孟玄**，也可以叫我 **Ceylan**。我喜欢从系统的第一性原理出发，把模糊的问题拆成能运行、能测量、能继续演进的工程。
 
-> **敏捷开发宣言：** 个体和互动高于流程和工具；可工作的软件高于详尽的文档；客户合作高于合同谈判；响应变化高于遵循计划。
+> **我坚信：** 个体和互动高于流程和工具；可工作的软件高于详尽的文档；客户合作高于合同谈判；响应变化高于遵循计划。
 
 ### 🧠 我在思考
 
@@ -118,7 +118,7 @@
 
 I'm **Liu Mengxuan (Ceylan)**, a systems-minded engineer exploring AI infrastructure, LLM serving, and agent workflows. I enjoy turning fuzzy ideas into software that can be run, measured, and continuously improved.
 
-> **Manifesto for Agile Software Development:** Individuals and interactions over processes and tools; working software over comprehensive documentation; customer collaboration over contract negotiation; responding to change over following a plan.
+> **I think :** Individuals and interactions over processes and tools; working software over comprehensive documentation; customer collaboration over contract negotiation; responding to change over following a plan.
 
 ### 🧠 What I Think About
 
