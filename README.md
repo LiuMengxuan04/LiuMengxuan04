@@ -173,7 +173,7 @@ I'm **Liu Mengxuan (Ceylan)**, a systems-minded engineer exploring AI infrastruc
 <div align="center">
 
 <a href="https://github.com/LiuMengxuan04">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=LiuMengxuan04&bg_color=00000000&color=64748b&line=0891b2&point=14b8a6&area=true&area_color=ccfbf1&hide_border=true&custom_title=Contribution%20Signal" alt="GitHub contribution activity graph" />
+  <img width="96%" src="https://raw.githubusercontent.com/LiuMengxuan04/LiuMengxuan04/main/profile/activity.svg?v=1" alt="GitHub contribution activity graph" />
 </a>
 
 <br/>
