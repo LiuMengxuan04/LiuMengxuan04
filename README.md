@@ -107,8 +107,8 @@
 
 ## 🎓 教育经历
 
-- **东南大学** — 软件工程本科（大四在读）
-- **东南大学** — 计算机科学与技术准硕士（师从[李传佑副教授](https://cs.seu.edu.cn/cyli/main.htm)）
+- **东南大学** — 软件工程本科
+- **东南大学** — 计算机科学与技术硕士（师从[李传佑副教授](https://cs.seu.edu.cn/cyli/main.htm)）
 
 <a id="english"></a>
 
@@ -153,8 +153,8 @@ I'm **Liu Mengxuan (Ceylan)**, a systems-minded engineer exploring AI infrastruc
 
 ### Education
 
-- **Southeast University** — B.E. in Software Engineering (Senior Year)
-- **Southeast University** — Prospective M.S. in Computer Science and Technology, supervised by [Assoc. Prof. Chuanyou Li](https://cs.seu.edu.cn/cyli/main.htm)
+- **Southeast University** — B.E. in Software Engineering 
+- **Southeast University** — M.S. in Computer Science and Technology, supervised by [Assoc. Prof. Chuanyou Li](https://cs.seu.edu.cn/cyli/main.htm)
 
 ## 🧰 Toolbox
 
