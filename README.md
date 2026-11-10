@@ -14,12 +14,10 @@
 
 <br/><br/>
 
-<code>Python</code>
-<code>C++</code>
-<code>Kubernetes</code>
+
 <code>LLM Serving</code>
 <code>AI Infrastructure</code>
-<code>Agent Systems</code>
+<code>AI Agent</code>
 
 <br/><br/>
 
