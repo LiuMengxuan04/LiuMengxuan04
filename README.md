@@ -162,7 +162,6 @@ I'm **Liu Mengxuan (Ceylan)**, a systems-minded engineer exploring AI infrastruc
 
 <br/><br/>
 
-`systems thinking` · `performance profiling` · `tool use` · `workflow design` · `ship → measure → iterate`
 
 </div>
 
