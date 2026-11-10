@@ -158,7 +158,7 @@ I'm **Liu Mengxuan (Ceylan)**, a systems-minded engineer exploring AI infrastruc
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,rust,linux,bash,git,docker,kubernetes,flask,nodejs,react,mysql&perline=8" alt="Technology toolbox" />
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,linux,bash,git,docker,kubernetes,flask,nodejs,react,mysql&perline=7" alt="Technology toolbox" />
 
 <br/><br/>
 
